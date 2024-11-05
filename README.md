@@ -27,7 +27,18 @@ Programming Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 
-## Overview of the Project’s Design
+## Oerview of the Project’s Design
+
+![image](https://github.com/user-attachments/assets/2441aa79-ecb5-421e-a0d0-c75f2de10103)
+
+![image](https://github.com/user-attachments/assets/a992921f-ec10-41d0-aef4-c612a47388c0)
+
+![image](https://github.com/user-attachments/assets/1d610ca7-90cc-44f8-a3bf-75b55f57bceb)
+
+![image](https://github.com/user-attachments/assets/3463b0e0-67a7-4c5d-b4bc-6a02bbb2883f)
+
+
+
 
 
 
