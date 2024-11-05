@@ -20,7 +20,14 @@ The Diwali Sales Analytics project is designed to analyze sales trends, customer
 - Uses predictive analytics to forecast future demand based on past Diwali sales data.
 - Helps optimize inventory and staffing for the next Diwali season, reducing the risk of stockouts or overstocking.
 
+## Technologies Used:
 
+Programming Language: Python
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+
+## Overview of the Project’s Design
 
 
 
