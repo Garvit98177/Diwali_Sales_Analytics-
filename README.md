@@ -17,7 +17,6 @@ The Diwali Sales Analytics project is designed to analyze sales trends, customer
 - Tracks sales by channel (online vs. offline) to analyze the effectiveness of each distribution method during the festive season.
 
 ### Demand Forecasting:
-- Uses predictive analytics to forecast future demand based on past Diwali sales data.
 - Helps optimize inventory and staffing for the next Diwali season, reducing the risk of stockouts or overstocking.
 
 ## Technologies Used:
